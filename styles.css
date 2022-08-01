@@ -112,6 +112,7 @@ p code {
 
     #main-doc {
         border: none;
+        height:calc(100vh - 300px);
     }
 
     .main-section:first-child {
